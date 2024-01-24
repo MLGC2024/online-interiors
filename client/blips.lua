@@ -1,6 +1,6 @@
 local blips = {
 	-- Apartments
-	{text = "Apartment", color = 0, sprite = 40, x = -911.91, y = -451.08, z = 39.61},
+	--[[{text = "Apartment", color = 0, sprite = 40, x = -911.91, y = -451.08, z = 39.61},
 	{text = "Apartment", color = 0, sprite = 40, x = -268.911, y = -956.445, z = 31.223},
 	{text = "Apartment", color = 0, sprite = 40, x = -47.49, y = -585.85, z = 37.95},
 	{text = "Apartment", color = 0, sprite = 40, x = -911.91, y = -451.08, z = 39.61},
@@ -56,7 +56,7 @@ local blips = {
 	{text = "Aircraft Carrier", color = 0, sprite = 16, x = 3082.31, y = -4717.11, z = 15.26},
 	-- Yacht
 	{text = "Yacht", color = 0, sprite = 455, x = -2043.97, y = -1031.58, z = 11.98},
-	{text = "Yacht", color = 0, sprite = 455, x = -1363.72, y = 6734.10, z = 2.44}
+	{text = "Yacht", color = 0, sprite = 455, x = -1363.72, y = 6734.10, z = 2.44}]]
 }
 
 -- Don't edit below this line.
